@@ -19,3 +19,12 @@ The following aspects were investigated:
 - MATLAB
 - Artificial Neural Networks (ANN)
 - Supervised classification
+
+- ---
+
+## © Copyright
+
+© 2025 Vedran Mitić. All rights reserved.
+
+This thesis and accompanying materials may not be reproduced or distributed without the author's permission.
+
